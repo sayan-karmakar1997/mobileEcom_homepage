@@ -1,0 +1,14 @@
+.me-2 {
+    width: 334px;
+}
+.bg-light{ text-align: center; }
+.bg-light img{  height: 300px; }
+.btn-warning {
+    background-color: #084298;
+    color: #fff;
+}
+
+
+@media only screen and (max-width: 600px) {
+ 
+}
